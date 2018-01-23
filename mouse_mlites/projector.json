@@ -2,6 +2,10 @@
     "embeddings": [
         {
             "tensorName": "My tensor",
+            "tensorShape": [
+                104,
+                179
+            ],
             "tensorPath": "https://raw.githubusercontent.com/brianhie/visualize/master/mouse_mlites/mat.txt",
             "metadataPath": "https://raw.githubusercontent.com/brianhie/visualize/master/mouse_mlites/labels.txt"
         }
