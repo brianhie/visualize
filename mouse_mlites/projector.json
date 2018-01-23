@@ -1,0 +1,9 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "My tensor",
+            "tensorPath": "https://raw.githubusercontent.com/brianhie/visualize/master/mouse_mlites/mat.txt",
+            "metadataPath": "https://raw.githubusercontent.com/brianhie/visualize/master/mouse_mlites/labels.txt"
+        }
+    ]
+}

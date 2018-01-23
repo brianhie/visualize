@@ -1,0 +1,104 @@
+adrenal
+adrenal
+adrenal
+adrenal
+adrenal
+aorta
+aorta
+aorta
+aorta
+aorta
+aorta
+brain
+brain
+brain
+brain
+brain
+brain
+brown fat
+brown fat
+brown fat
+brown fat
+brown fat
+brown fat
+epidermis
+epidermis
+epidermis
+epidermis
+epidermis
+epidermis
+gastroc
+gastroc
+gastroc
+gastroc
+gastroc
+gastroc
+heart
+heart
+heart
+heart
+heart
+heart
+kidney
+kidney
+kidney
+kidney
+kidney
+kidney
+large intest
+large intest
+large intest
+large intest
+large intest
+liver
+liver
+liver
+liver
+liver
+liver
+lung
+lung
+lung
+lung
+lung
+lung
+small intest
+small intest
+small intest
+small intest
+small intest
+small intest
+soleus
+soleus
+soleus
+soleus
+soleus
+soleus
+spleen
+spleen
+spleen
+spleen
+spleen
+spleen
+testes
+testes
+testes
+testes
+testes
+thymus
+thymus
+thymus
+thymus
+thymus
+thymus
+white fat
+white fat
+white fat
+white fat
+white fat
+blood
+blood
+blood
+blood
+blood
+blood
