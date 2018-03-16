@@ -1,0 +1,9 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "My tensor",
+            "tensorPath": "https://raw.githubusercontent.com/brianhie/visualize/master/inf/X_filter.txt",
+            "metadataPath": "https://raw.githubusercontent.com/brianhie/visualize/master/inf/y_filter.txt"
+        }
+    ]
+}
