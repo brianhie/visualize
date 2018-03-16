@@ -2,6 +2,10 @@
     "embeddings": [
         {
             "tensorName": "My tensor",
+            "tensorShape": [
+                15824,
+                4
+            ],
             "tensorPath": "https://raw.githubusercontent.com/brianhie/visualize/master/inf/X_filter.txt",
             "metadataPath": "https://raw.githubusercontent.com/brianhie/visualize/master/inf/y_filter.txt"
         }
